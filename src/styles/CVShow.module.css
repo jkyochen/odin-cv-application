@@ -1,0 +1,50 @@
+.cvShow {
+    display: flex;
+    gap: 40px;
+    border: 1px black solid;
+}
+
+.showLeft {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.name {
+    font-size: xx-large;
+}
+
+.showRight {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 20px;
+}
+
+.orgList {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 15px;
+}
+
+.date {
+    font-size: x-large;
+}
+
+.org {
+    display: flex;
+    gap: 10px;
+}
+
+.orgName {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.role {
+    font-size: large;
+}

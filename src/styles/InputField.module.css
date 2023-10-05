@@ -1,0 +1,9 @@
+.input-field {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    width: 300px;
+    height: 30px;
+}

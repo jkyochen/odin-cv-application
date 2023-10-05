@@ -1,0 +1,22 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.show {
+    display: flex;
+    gap: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button>button {
+    width: 70px;
+    height: 40px;
+    background-color: aqua;
+}

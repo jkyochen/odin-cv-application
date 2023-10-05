@@ -1,0 +1,10 @@
+.fieldset {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.fieldset>legend {
+    font-size: x-large;
+}
